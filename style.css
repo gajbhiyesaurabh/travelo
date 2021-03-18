@@ -99,7 +99,7 @@ h1,h2,h3{
 
 .header{
     height: 98vh;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0,0.5)), url('../img/header-image.jpg');
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0,0.5)), url('header-image.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
