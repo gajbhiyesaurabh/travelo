@@ -99,7 +99,7 @@ h1,h2,h3{
 
 .header{
     height: 98vh;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0,0.5)), url('travelo/header-image.jpg');
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0,0.5)), url('/header-image.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -212,7 +212,7 @@ h1,h2,h3{
 }
 
 .row1 .img_text{
-    background-image: url('/img/showcase-photo3.jpg');
+    background-image: url('img/showcase-photo3.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
