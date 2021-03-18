@@ -212,14 +212,14 @@ h1,h2,h3{
 }
 
 .row1 .img_text{
-    background-image: url("img/showcase-photo3.jpg");
+    background-image: url("showcase-photo3.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .row2 .img_text{
-    background-image: url("/showcase-photo2.jpg");
+    background-image: url("showcase-photo2.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
